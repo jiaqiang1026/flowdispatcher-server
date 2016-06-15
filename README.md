@@ -1,2 +1,2 @@
 # flowdispatcher-server
-流量转向（定向）服务
+流量转发（重定向）服务
